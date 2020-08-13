@@ -1,7 +1,6 @@
 
 package pruebajava;
 
-
 public class PruebaJava {
 
     /**
@@ -9,6 +8,6 @@ public class PruebaJava {
      */
     public static void main(String[] args) {
         System.out.println("Prueba Git y GitHub");
-    }
-    
+        System.out.println("Segunda línea de texto añadida en Github directamente");
+    }    
 }
